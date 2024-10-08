@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Build-Jdk: Egor
+Build-Jdk: Amazon Corretto 21.0.4
+Implementation-Title: springboot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: web
+Main-Class: ${start-class}
+Spring-Boot-Native-Processed: true
+
